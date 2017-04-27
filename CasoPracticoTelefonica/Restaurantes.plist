@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imagen</key>
+		<string>meson_cid</string>
+		<key>nombre</key>
+		<string>Meson CID</string>
+		<key>direccion</key>
+		<string>Calle la Industria, 9, Logroño</string>
+		<key>descripcion</key>
+		<string>Amplios salones de banquetes de aire rústico cuidado con diferentes menús de cocina española y carta de vinos.</string>
+		<key>longitud</key>
+		<real>-2.456824</real>
+		<key>latitud</key>
+		<real>42.465551</real>
+	</dict>
+	<dict>
+		<key>imagen</key>
+		<string>meson_egues</string>
+		<key>nombre</key>
+		<string>Meson Egües</string>
+		<key>direccion</key>
+		<string>Calle la Campa, 3, Logroño</string>
+		<key>descripcion</key>
+		<string>Carnes rojas a la brasa y productos locales en mesón moderno con paredes de ladrillo visto y muebles de época</string>
+		<key>longitud</key>
+		<real>-2.456911</real>
+		<key>latitud</key>
+		<real>42.466601</real>
+	</dict>
+	<dict>
+		<key>imagen</key>
+		<string>kaiser_ppl</string>
+		<key>nombre</key>
+		<string>Hamburgueseria Kaiser</string>
+		<key>direccion</key>
+		<string>C/ Labradores, 5, Logroño</string>
+		<key>descripcion</key>
+		<string>Hamburguesería</string>
+		<key>longitud</key>
+		<real>-2.454197</real>
+		<key>latitud</key>
+		<real>42.463657</real>
+	</dict>
+</array>
+</plist>
